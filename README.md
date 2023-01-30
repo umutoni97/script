@@ -2,7 +2,7 @@
 ## SuperTrace.sh
 - Description: Auto Traceroute to China Network
 - Intro:  https://www.oldking.net/1359.html
-- Copyright (C) 2017-2022 Oldking <oooldking@gmail.com>
+- Copyright (C) 2017-2022 Oldking <christj952@gmail.com>
  
 ```bash
 Usage:
